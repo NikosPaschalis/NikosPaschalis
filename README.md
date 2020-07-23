@@ -8,8 +8,6 @@
 
 - ⚡ Fun fact **Buy me a ☕️ and I'm yours**
 
-<h1 align="center">Social Media </h1>
-<p align = "center">
-<img src = "https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"><a href ="https://github.com/NikosPaschalis"></a></img>
-<img src = "https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"><a href ="https://www.linkedin.com/in/nikospasxalis/"></a></img>
-</p>
+# Social Media #
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NikosPaschalis)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikospasxalis/)
