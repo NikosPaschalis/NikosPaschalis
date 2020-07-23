@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**NikosPaschalis/NikosPaschalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Nikos</h1>
+<h3 align="center">A young-enthusiast full stack developer from Greece</h3>
+<br />
+<p align="left>
+- Bs in Computer Science 🎓
+- Photography Enthusiast 📸
+</p>
+<br />
+- 🌱 I’m currently learning React <img  alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> 
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**
+- 📫 Reach me at **nikospasxalis94@gmail.com**
+- ⚡ Fun fact: Coffee ☕ is life   
+<!-- I'm currently learning React <img  alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> -->
