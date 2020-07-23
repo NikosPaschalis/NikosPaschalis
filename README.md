@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nikos #
 ## A young-enthusiast Full Stack Developer from Greece 🇬🇷 ##
-Hello my name is Nikos Paschalis, I have BSc in Computer Science and currently working as Technical Associate at 6th Health Region of Peloponnese. I'm passionate about web development and I'm spending most of my time to improve my skills from front to back end. Currently learning ReactJS and building my portfolio page to hone my skills. When I'm not <code>coding</code> I love to exercise 🚴 , take photos 📸, play video games 🎮 or read books 📖
+Hello my name is Nikos Paschalis, I have a BSc in Computer Science and I'm currently working as a Technical Associate at 6th Health Region of Peloponnese. I'm passionate about web development and I'm spending most of my time improving my skills from front to back end. Currently learning ReactJS and building my portfolio page to hone my skills. When I'm not <code>coding</code> I love to exercise 🚴 , take photos 📸, play video games 🎮 or read books 📖
 
 - 💬 Ask me about **JavaScript, ReactJS, PHP, MySQL, HTML, CSS**
 
