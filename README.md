@@ -6,7 +6,7 @@ Hello my name is Nikos Paschalis, I have a BSc in Computer Science and I'm curre
 
 - 📫 Reach me at **nikospasxalis94@gmail.com**
 
-- ⚡ Fun fact **Buy me a ☕️ and I'm yours**
+- ⚡ Fun fact **buy me a coffee and you’ll have my full attention**
 
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NikosPaschalis)
